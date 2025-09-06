@@ -36,7 +36,7 @@ Google App Password (required)
 1. Installation
 bash
 # Clone the repository
-https://github.com/kingsly771/whatsapp-report-bot
+git clone https://github.com/infofbnr/whatsapp-report-bot
 cd whatsapp-report-bot
 
 # Run automated setup
@@ -277,4 +277,5 @@ For bugs or feature requests, please open an issue on GitHub.
 ⭐ If this project helped you, please give it a star on Github 
 WhatsApp Mass Reporter Bot v2.0
 By *KINGSLEY771*
+
 
